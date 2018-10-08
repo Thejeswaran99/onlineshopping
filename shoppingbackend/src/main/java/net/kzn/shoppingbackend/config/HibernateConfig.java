@@ -71,8 +71,8 @@ public class HibernateConfig {
 		
 		//properties.put("hibernate.hbm2ddl.auto", "create");
 		
-		
 		return properties;
+		
 	}
 	
 	// transactionManager bean
